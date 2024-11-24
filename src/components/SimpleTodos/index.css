@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffc2a0;
+  padding: 30px;
+}
+.white-bg-container {
+  background-color: white;
+  border-radius: 10px;
+  padding: 50px;
+}
+.heading {
+  color: #ff8542;
+  text-align: center;
+}
